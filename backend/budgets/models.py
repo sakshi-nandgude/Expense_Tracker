@@ -1,9 +1,6 @@
 from django.db import models
 
 # Create your models here.
-from django.db import models
-
-
 class Budget(models.Model):
     limit = models.DecimalField(
         max_digits=10,
