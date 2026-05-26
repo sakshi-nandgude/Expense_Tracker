@@ -1,5 +1,6 @@
 Diary.txt
 .env
+backend/.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
